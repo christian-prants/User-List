@@ -1,0 +1,42 @@
+.form_add_user {
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.form_add_user label {
+    font-size: 14px;
+    font-weight: normal;
+    color: #222f3e;
+}
+
+.form_add_user input {
+    color: #222f3e;
+    min-height: 25px;
+    width: 100%;
+    display: block;
+    border: 1px solid #222f3e;
+    text-transform: capitalize;
+}
+
+.form_add_user_btn {
+    background-color: #0abde3;
+    border: 1px solid #0abde3;
+    font-weight: bold;
+    color:#fff;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100%;
+    padding: 5px 10px 5px 10px; 
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.25);
+}
+
+.form_add_user_btn:hover,
+.form_add_user_btn:active,
+.form_add_user button:hover,
+.form_add_user button:active {
+    background-color: #48dbfb;
+    border-color: #48dbfb;
+    color:#222f3e;
+}

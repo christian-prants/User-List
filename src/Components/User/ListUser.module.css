@@ -1,0 +1,13 @@
+.list_user {
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.list_user h3 {
+    color: #222f3e;
+    text-align: center;
+    padding-bottom: 5px;    
+    margin: 0 10px 0 10px;
+}
