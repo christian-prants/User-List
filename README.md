@@ -1,8 +1,3 @@
-# Projeto de uma Lista de Usuários
-REACT THE COMPLETE GUIDE by Maximilian Schwarzmuller
+# Lista de usuários
 
-O objetivo deste projeto foi: <br />
-
-Compreender e implementar componentes reutilizáveis; <br />
-Compreender e implementar validações de dados; <br />
-Compreender e implementar Error Modal. <br />
+O objetivo desse exercício era de possibilitar ao usuário incluir nomes em uma lista, mantendo os nomes incluídos anteriormente.
